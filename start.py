@@ -1,3 +1,3 @@
-name = "Noah Say"
-favorite_color = "green"
-favorite_animal = "tiger"
+name = "keaton johnson"
+favorite_color = "red"
+favorite_animal = "Elk"
