@@ -1,3 +1,3 @@
-name = "Noah Say"
+name = "Morgan"
 favorite_color = "green"
 favorite_animal = "tiger"
